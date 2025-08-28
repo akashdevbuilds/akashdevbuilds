@@ -1,6 +1,6 @@
 # Hi, I'm Akash Chandran 👋  
 
-### Software & AI/ML Developer 🚀  
+### Aspiring Software & AI/ML Developer 🚀  
 *Code. Learn. Build. Repeat ⚡*  
 
 ---
