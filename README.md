@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Akash Chandran 👋  
 
-<!--
-**akashdevbuilds/akashdevbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software & AI/ML Developer 🚀  
+*Code. Learn. Build. Repeat ⚡*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Focused On  
+I’m a software developer with a strong foundation in **Python** and a growing interest in **AI/ML**.  
+Right now, I’m sharpening my fundamentals and getting ready to dive deeper into AI and Machine learning.  
+
+Beyond my core work, I love exploring **blockchain & crypto** 💸 and maybe one day I’ll build something impactful in that space.  
+
+---
+
+## 💻 Tech & Tools  
+- **Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
+- **Interests:** AI/ML, Blockchain, Problem-Solving stuff  
+
+---
+
+## 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdevbuilds&layout=compact&theme=tokyonight)  
+
+---
+
+## 🤝 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/akash-chandran-csdev/)  
+
+---
+
+## ⚽ A Little About Me  
+When I’m not coding, you’ll probably find me on the **football field** or **tennis court**.  
+Also… I’ve just kicked off my **LeetCode journey** ; wish me luck (and don’t roast my solutions too hard 😅).  
