@@ -6,7 +6,7 @@
 ---
 
 ## 🌱 Currently Focused On  
-I’m a Aspiring software developer with a foundation in **Python** and a growing interest in **AI/ML**.  
+I’m an Aspiring software developer with a foundation in **Python** and a growing interest in **AI/ML**.  
 Right now, I’m sharpening my fundamentals and getting ready to dive deeper into AI and Machine learning.  
 
 Beyond my core work, I love exploring **blockchain & crypto** 💸 and maybe one day I’ll build something impactful in that space.  
