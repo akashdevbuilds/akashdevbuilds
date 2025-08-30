@@ -68,5 +68,5 @@ Beyond my core work, I love exploring **blockchain & crypto** 💸 and maybe one
 ---
 
 ## ⚽ A Little About Me  
-When I’m not coding, you’ll probably find me on the **football field** or **tennis court**.  
+When I’m not coding, you’ll probably find me playing **football** or **tennis**.  
 Also… I’ve just kicked off my **LeetCode journey** ; wish me luck (and don’t roast my solutions too hard 😅).  
