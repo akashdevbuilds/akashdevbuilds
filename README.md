@@ -48,7 +48,7 @@ I'm an aspiring software developer with a foundation in **Python** and a growing
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashdevbuilds&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🤝 Let's Connect
+## 🤝 Connect with ME!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-chandran-csdev/">
