@@ -6,7 +6,7 @@
 
 I'm an aspiring software developer with a foundation in **Python** and a growing interest in **AI/ML**. Currently, I'm sharpening my fundamentals and preparing to dive deeper into AI and Machine Learning.
 
-## 💻 Tech & Tool
+## 💻 Tech & Tools
 
 ### 🖥️ Languages & Core
 <p align="center">
