@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=00C8FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Akash+Chandran+%F0%9F%91%8B;Aspiring+Software+%26+AI%2FML+Developer+%F0%9F%9A%80;Code.+Learn.+Build.+Repeat+%E2%9A%A1" alt="Typing Animation" />
 </h1>
 
-## 🌱 Currently Focused On
+## 🌱 Currently Focused On !
 
 I'm an aspiring software developer with a foundation in **Python** and a growing interest in **AI/ML**. Currently, I'm sharpening my fundamentals and preparing to dive deeper into AI and Machine Learning.
 
